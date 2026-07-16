@@ -1,4 +1,4 @@
-# TSSR Quiz Trainer V2 — complet
+# TSSR Quiz Trainer — complet
 
 Application locale d'entraînement TSSR, créée par Cédric.
 
@@ -18,13 +18,6 @@ Application locale d'entraînement TSSR, créée par Cédric.
 2. Ouvrir `index.html` dans un navigateur.
 3. Choisir une catégorie ou lancer le mode examen final.
 
-## Mise en ligne publique avec GitHub Pages
-
-1. Créer un dépôt GitHub public.
-2. Envoyer `index.html` et `README.md`.
-3. Aller dans `Settings > Pages`.
-4. Choisir `Deploy from branch`, branche `main`, dossier `/root`.
-5. Partager l'URL GitHub Pages.
 
 ## Version
 
